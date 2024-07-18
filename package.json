@@ -1,0 +1,27 @@
+{
+  "name": "weather-cli-",
+  "version": "1.0.0",
+  "description": "Weather-app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yelmuratov/weather-cli-.git"
+  },
+  "keywords": [
+    "Weather-cli",
+    "nodeJs"
+  ],
+  "author": "Salimbay Elimuratov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yelmuratov/weather-cli-/issues"
+  },
+  "homepage": "https://github.com/yelmuratov/weather-cli-#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
